@@ -1,4 +1,4 @@
-var splice = require('.spliceString.js');
+var splice = require('./spliceString.js');
 var assert = require(assert);
 
 var exampleString = 'abcdefg';
