@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/tnrich/string-splice.svg?branch=master)](https://travis-ci.org/tnrich/string-splice)
 #Useage:
 ```
 splice(str, index, count, add)
